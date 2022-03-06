@@ -1,0 +1,23 @@
+commit 6e9368e8d929606a03648c84beab9f4e9eb5477a
+Author: Jiangshan YU <jyu107@teaching.CS.McGill.CA>
+Date:   Wed Apr 28 01:49:10 2021 -0400
+
+    final draft2: free the malloc and change the size of line array
+
+commit 0baa24ebd2b24290787f245b951736dc1ade4ddd
+Author: Jiangshan YU <jyu107@teaching.CS.McGill.CA>
+Date:   Wed Apr 28 00:37:10 2021 -0400
+
+    final draft1
+
+commit afecae825dcab23ecceffa6121e67782e31c0dab
+Author: Jiangshan YU <jyu107@teaching.CS.McGill.CA>
+Date:   Tue Apr 27 03:20:17 2021 -0400
+
+    create the linked list and successfully traverse it
+
+commit 1bc4fd2bd9e3d4b091cd511503f2745e1fcacdd5
+Author: Jiangshan YU <jyu107@teaching.CS.McGill.CA>
+Date:   Sun Apr 18 01:50:46 2021 -0400
+
+    bash code exercise2
